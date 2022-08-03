@@ -1,5 +1,5 @@
-# angular-7zmbns
+# Angular tutorial app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-7zmbns)
+## run a program on localhost:4200
 
-## Instalation
+`npm start`
